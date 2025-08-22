@@ -5,8 +5,8 @@ This repository contains the 3D design of a 5-Degree-of-Freedom (DOF) robotic ar
 
 ### 📁 Contents
 
-- `Robotic_Arm.stl` – Exported 3D model of the robotic arm (STL format)
-- `Image.jpg` – Preview image of the assembled model
+- `Robotic-Arm.stl` – Exported 3D model of the robotic arm (STL format)
+- `image.png` – Preview image of the assembled model
 
 ### 🔧 Technical Overview
 
@@ -26,5 +26,5 @@ The aim of this project was to design a functional and balanced 5-DOF robotic ar
 
 ## 📷 Preview
 
-![Preview](image.jpg)
+![Preview](image.png)
 
